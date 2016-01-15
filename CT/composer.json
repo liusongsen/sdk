@@ -1,0 +1,15 @@
+{
+    "name": "sdk/lss",
+    "description": "平台sdk",
+    "require": {
+        "phpunit/phpunit": "*"
+    },
+    "license": "Picker",
+    "authors": [
+        {
+            "name": "liusongsen",
+            "email": "liusongsen@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
