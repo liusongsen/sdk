@@ -1,5 +1,5 @@
 {
-    "name": "sdk/lss",
+    "name": "jzweb/fwsdk",
     "description": "平台sdk",
     "require": {
         "phpunit/phpunit": "*"
