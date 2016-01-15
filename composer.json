@@ -1,15 +1,24 @@
 {
-    "name": "jzweb/fwsdk",
-    "description": "平台sdk",
-    "require": {
-        "phpunit/phpunit": "*"
-    },
-    "license": "Picker",
-    "authors": [
-        {
-            "name": "liusongsen",
-            "email": "liusongsen@gmail.com"
-        }
-    ],
-    "minimum-stability": "dev"
+  "name": "jzweb/fwsdk",
+  "type": "library",
+  "description": "经传开放平台.",
+  "keywords": ["jzweb","fwsdk","fw","sdk"],
+  "homepage": "https://github.com/liusongsen/sdk",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Picker",
+      "email": "liusongsen@gmail.com",
+      "homepage": "http://www.yidejia.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.0.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "*",
+    "johnkary/phpunit-speedtrap": "~1.0@dev",
+    "codeclimate/php-test-reporter": "dev-master"
+  }
 }
